@@ -1,6 +1,6 @@
 #include<stdio.h>
-int mian(){
+int main(){
 
 printf("This is a simple github demo\n");
-printf("El Clasico is going to be won by madrid , I hope so\n")
+printf("El Clasico is going to be won by madrid , I hope so\n");
 }
